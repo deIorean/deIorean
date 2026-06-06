@@ -9,9 +9,9 @@
 ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Pre-final year Engineering Student · Cybersecurity & Web Development
+### Pre-final year Engineering Student · Cybersecurity Enthusiast
 
-*Building things that break — and figuring out why.*
+*Building things that break and figuring out why.*
 
 </div>
 
@@ -19,13 +19,13 @@
 
 ## About Me
 
-I'm a pre-final year engineering student specializing in **cybersecurity** and **full-stack web development**. I enjoy working close to the metal — understanding how systems fail, how data flows, and how to build things that are both functional and secure.
+I'm a pre-final year engineering student specializing in **cybersecurity**. I enjoy working close to the metal and understanding how systems fail, how data flows, and how to build things that are both functional and secure.
 
-Currently looking for **internship opportunities** in cybersecurity, backend development, or full-stack roles.
+Currently looking for **internship opportunities** in cybersecurity.
 
 - 🔐 Interested in web security, log analysis, and threat detection
 - 🛠️ Building projects that solve real security and engineering problems
-- 📚 Always learning — currently going deeper into network security and system design
+- 📚 Always learning — currently going deeper into network security
 
 ---
 
@@ -36,8 +36,6 @@ Currently looking for **internship opportunities** in cybersecurity, backend dev
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -50,7 +48,6 @@ Currently looking for **internship opportunities** in cybersecurity, backend dev
 **Domains**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4B4B?style=flat-square&logo=hackthebox&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-0A0A0A?style=flat-square&logo=vercel&logoColor=white)
 ![AI/ML Integration](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
@@ -60,7 +57,7 @@ Currently looking for **internship opportunities** in cybersecurity, backend dev
 ### 🔍 [LogShield](https://github.com/delorean/logshield)
 > AI-powered web log analysis platform for threat detection and security monitoring
 
-An end-to-end security tool that ingests web server logs, runs them through an LLM (LLaMA 3.3 70B via Groq), and surfaces structured threat intelligence — all through a clean web interface.
+An end-to-end security tool that ingests web server logs, runs them through an LLM, and surfaces structured threat intelligence, all through a clean web interface.
 
 **Stack:** `Next.js` · `FastAPI` · `PostgreSQL` · `Groq / LLaMA 3.3 70B`
 
