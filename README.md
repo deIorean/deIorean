@@ -54,21 +54,6 @@ Currently looking for **internship opportunities** in cybersecurity.
 
 ## Featured Projects
 
-###🛡️ Threat Intelligence Dashboard
-
-OSINT-based IOC analysis tool for cybersecurity analysts and students
-
-A Streamlit-powered dashboard that consolidates threat intelligence from multiple sources into a single interface. Enter an IP, domain, URL, or file hash — get instant threat analysis.
-Stack: Python · Streamlit · VirusTotal API · AbuseIPDB API · IPWhois
-What it does:
-
-Auto-classifies IOC type (IP / domain / URL / file hash) using regex pattern matching
-Pulls malware detection stats from 70+ antivirus engines via VirusTotal
-Retrieves IP reputation scores and abuse history from AbuseIPDB
-Fetches WHOIS/ASN/geolocation data for IP-based indicators
-Handles API failures, rate limits, and invalid inputs gracefully
-
-
 ### 🔍 [LogShield](https://github.com/delorean/logshield)
 > AI-powered web log analysis platform for threat detection and security monitoring
 
@@ -81,6 +66,20 @@ An end-to-end security tool that ingests web server logs, runs them through an L
 - Uses AI to classify threats, extract IPs, and identify attack patterns
 - Returns structured results stored in a relational DB with `jsonb` threat records
 - Full-stack: TypeScript frontend, Python backend, REST API
+
+### 🛡️ [Threat Intelligence Dashboard](https://github.com/deIorean/threat-intel-dashboard)
+> OSINT-based IOC analysis tool for cybersecurity analysts and students
+ 
+A Streamlit-powered dashboard that consolidates threat intelligence from multiple sources into a single interface. Enter an IP, domain, URL, or file hash — get instant threat analysis.
+ 
+**Stack:** `Python` · `Streamlit` · `VirusTotal API` · `AbuseIPDB API` · `IPWhois`
+ 
+**What it does:**
+- Auto-classifies IOC type (IP / domain / URL / file hash) using regex pattern matching
+- Pulls malware detection stats from 70+ antivirus engines via VirusTotal
+- Retrieves IP reputation scores and abuse history from AbuseIPDB
+- Fetches WHOIS/ASN/geolocation data for IP-based indicators
+- Handles API failures, rate limits, and invalid inputs gracefully
 
 ---
 
