@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58a6ff&height=200&section=header&text=DELOREAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-final%20year%20Engineering%20Student%20·%20Cybersecurity%20%26%20Web%20Development&descAlignY=60&descSize=18)
+
 ```
 ██████╗ ███████╗██╗      ██████╗ ██████╗ ███████╗ █████╗ ███╗   ██╗
 ██╔══██╗██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗████╗  ██║
