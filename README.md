@@ -54,7 +54,7 @@ Currently looking for **internship opportunities** in cybersecurity.
 
 ## Featured Projects
 
-### 🔍 [LogShield](https://github.com/delorean/logshield)
+### 🔍 [LogShield](https://github.com/deIorean/LogShield)
 > AI-powered web log analysis platform for threat detection and security monitoring
 
 An end-to-end security tool that ingests web server logs, runs them through an LLM, and surfaces structured threat intelligence, all through a clean web interface.
