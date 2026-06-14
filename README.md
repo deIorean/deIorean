@@ -67,7 +67,7 @@ An end-to-end security tool that ingests web server logs, runs them through an L
 - Returns structured results stored in a relational DB with `jsonb` threat records
 - Full-stack: TypeScript frontend, Python backend, REST API
 
-### 🛡️ [Threat Intelligence Dashboard](https://github.com/deIorean/threat-intel-dashboard)
+### 🛡️ [Threat Intelligence Dashboard](https://github.com/deIorean/Threat-Intelligence-Dashboard/)
 > OSINT-based IOC analysis tool for cybersecurity analysts and students
  
 A Streamlit-powered dashboard that consolidates threat intelligence from multiple sources into a single interface. Enter an IP, domain, URL, or file hash — get instant threat analysis.
