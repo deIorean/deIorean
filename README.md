@@ -9,9 +9,8 @@
 ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Pre-final year Engineering Student · Cybersecurity Enthusiast
+### Engineering Student · Cybersecurity Enthusiast
 
-*Building things that break and figuring out why.*
 
 </div>
 
@@ -21,11 +20,12 @@
 
 I'm a pre-final year engineering student specializing in **cybersecurity**. I enjoy working close to the metal and understanding how systems fail, how data flows, and how to build things that are both functional and secure.
 
-Currently looking for **internship opportunities** in cybersecurity.
+Currently looking for **internship opportunities** in cybersecurity or anything close to it.
+ 
 
 - 🔐 Interested in web security, log analysis, and threat detection
 - 🛠️ Building projects that solve real security and engineering problems
-- 📚 Always learning — currently going deeper into network security
+- 📚 Always learning — currently going deeper into web application security
 
 ---
 
